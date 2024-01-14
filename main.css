@@ -1,0 +1,21 @@
+#topnav{
+    text-align:center;
+    background-color: grey;
+    padding: 10px;
+}
+
+.topnavbutton{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: blue;
+    text-align:center;
+    color: lightblue;
+    height: 70px;
+    width: 180px;
+    border-radius: 10px;
+    border-color: blue;
+}
+
+body{
+    background-color:white;
+}
